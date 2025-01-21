@@ -23,7 +23,7 @@ With the use of SQL, this project seeks to identify patterns and trends in Netfl
 The data for this project comes from Kaggle.
 
 
-## Schema
+## Schemas
 
 ```sql
 
