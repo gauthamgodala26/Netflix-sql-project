@@ -1,6 +1,5 @@
  ## 🎬  Netflix Movies & TV Shows Data Analysis using SQL
 
-![](https://images3.alphacoders.com/115/1152293.png)
 
 ## 🚀  Overview
 Netflix dominates the global streaming industry, but what content trends shape its library? This SQL-powered analysis unlocks hidden insights from Netflix’s vast collection—examining content distribution, audience preferences, and global availability.
@@ -311,7 +310,7 @@ GROUP BY category;
 
 🔹 Actor & Director Influence – Certain actors and directors appear significantly more.
 
-🔹 Content Categorization – AI-driven filtering can help remove violent content for safer viewing.
+🔹 Content Categorization –  Filtering can help remove violent content for safer viewing.
 
 
 
