@@ -296,19 +296,19 @@ GROUP BY category;
 
 **Objective:** Categorize content as 'A' if it contains 'kill' or 'violence' and 'U/A' otherwise. Count the number of items in each category.
 
-## 🏆 Key Business Insights:
+##  Key Business Insights:
 
-🔹 Content Dominance – Movies dominate Netflix’s library, but TV shows are growing.
+. Content Dominance – Movies dominate Netflix’s library, but TV shows are growing.
 
-🔹 Rating & Genre Trends – Netflix content skews towards specific genres and age ratings.
+. Rating & Genre Trends – Netflix content skews towards specific genres and age ratings.
 
-🔹 Global Expansion – The USA, India, and the UK lead in content availability.
+. Global Expansion – The USA, India, and the UK lead in content availability.
 
-🔹 Indian Content Growth – Massive growth in Indian content releases in recent years.
+. Indian Content Growth – Massive growth in Indian content releases in recent years.
 
-🔹 Actor & Director Influence – Certain actors and directors appear significantly more.
+. Actor & Director Influence – Certain actors and directors appear significantly more.
 
-🔹 Content Categorization –  Filtering can help remove violent content for safer viewing.
+. Content Categorization –  Filtering can help remove violent content for safer viewing.
 
 
 
