@@ -1,34 +1,32 @@
- ## 🎬  Netflix Movies & TV Shows Data Analysis using SQL
+ ##   Netflix Movies & TV Shows Data Analysis using SQL
 
 
-## 🚀  Overview
+##   Overview
 Netflix dominates the global streaming industry, but what content trends shape its library? This SQL-powered analysis unlocks hidden insights from Netflix’s vast collection—examining content distribution, audience preferences, and global availability.
 
 ## Skills Used:
 
-✅ SQL Querying & Data Analysis – Efficiently extract insights from structured data.
+. SQL Querying & Data Analysis – Efficiently extract insights from structured data.
 
-✅ Data Cleaning & Transformation – Handle missing values, text parsing, and data structuring.
+. Data Cleaning & Transformation – Handle missing values, text parsing, and data structuring.
 
-✅ Database Design & Indexing – Optimize queries for faster execution.
+. Time-Series Analysis – Identify trends over time.
 
-✅ Time-Series Analysis – Identify trends over time.
-
-✅ Window Functions & Aggregations – Rank & segment data for deeper analysis.
-
-✅ Text Processing & String Functions – Extract patterns from titles, descriptions, and genres.
+. Window Functions & Aggregations – Rank & segment data for deeper analysis.
 
 
- ## 💡 Why This Project Matters?
+
+
+ ##  Why This Project Matters?
 With Netflix producing thousands of titles, understanding content trends is crucial for:
 
-📌 Improving recommendation engines 
+ Improving recommendation engines 
 
-📌 Optimizing content production & licensing 
+' Optimizing content production & licensing 
 
-📌 Expanding in key global markets 
+' Expanding in key global markets 
 
-📌 Enhancing parental controls for content safety 
+' Enhancing parental controls for content safety 
 
 This analysis provides data-driven strategies for Netflix, competitors, and media analysts to make better content decisions.
 
@@ -36,25 +34,25 @@ This analysis provides data-driven strategies for Netflix, competitors, and medi
 
 
 
-## 🎯 Project Objectives:
+##  Project Objectives:
 
-🔹 Content Classification – Identify the ratio of Movies vs. TV Shows
+. Content Classification – Identify the ratio of Movies vs. TV Shows
 
-🔹 Content Trends Over Time – Track content releases by year & geography
+. Content Trends Over Time – Track content releases by year & geography
 
-🔹 Global Reach Analysis – Identify top content-producing countries
+. Global Reach Analysis – Identify top content-producing countries
 
-🔹 Indian Market Insights – Analyze content trends in India
+. Indian Market Insights – Analyze content trends in India
 
-🔹 Viewer Preferences – Uncover top genres, ratings & actor appearances
+. Viewer Preferences – Uncover top genres, ratings & actor appearances
 
-🔹 Content Categorization – Identify violent vs. non-violent content
+. Content Categorization – Identify violent vs. non-violent content
 
-## 📊 Dataset
+##  Dataset
 
-📌 Source: Kaggle
+. Source: Kaggle
 
-📌 Size: Contains data on thousands of Netflix movies and TV shows, including titles, directors, cast, genres, country, release year, ratings, and descriptions.
+. Size: Contains data on thousands of Netflix movies and TV shows, including titles, directors, cast, genres, country, release year, ratings, and descriptions.
 
 
 ## Schemas
