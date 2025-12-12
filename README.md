@@ -1,64 +1,44 @@
- ##   Netflix Movies & TV Shows Data Analysis using SQL
+# Netflix Movies & TV Shows — SQL Data Analysis Project
 
+This project analyzes over 8,000 Netflix titles using SQL to uncover content patterns, audience trends, and global production behaviors. It demonstrates end-to-end analytical skills including data cleaning, querying, transformation, segmentation, and insight generation.
 
-##   Overview
-Netflix dominates the global streaming industry, but what content trends shape its library? This SQL-powered analysis unlocks hidden insights from Netflix’s vast collection—examining content distribution, audience preferences, and global availability.
+---
 
-## Skills Used:
+## Dataset
 
-. SQL Querying & Data Analysis – Efficiently extract insights from structured data.
+Source: Kaggle  
+File included: netflix_titles.csv
 
-. Data Cleaning & Transformation – Handle missing values, text parsing, and data structuring.
+Fields include:
+- show_id  
+- type (Movie or TV Show)  
+- title  
+- director  
+- cast  
+- country  
+- date_added  
+- release_year  
+- rating  
+- duration  
+- listed_in  
+- description  
 
-. Time-Series Analysis – Identify trends over time.
+---
 
-. Window Functions & Aggregations – Rank & segment data for deeper analysis.
+## Tech Stack
 
+- SQL (PostgreSQL / MySQL)
+- Data cleaning and preprocessing
+- Window functions and aggregations
+- Business insight extraction
 
+---
 
+## How to Run This Project
 
- ##  Why This Project Matters?
-With Netflix producing thousands of titles, understanding content trends is crucial for:
-
- Improving recommendation engines 
-
-' Optimizing content production & licensing 
-
-' Expanding in key global markets 
-
-' Enhancing parental controls for content safety 
-
-This analysis provides data-driven strategies for Netflix, competitors, and media analysts to make better content decisions.
-
-
-
-
-
-##  Project Objectives:
-
-. Content Classification – Identify the ratio of Movies vs. TV Shows
-
-. Content Trends Over Time – Track content releases by year & geography
-
-. Global Reach Analysis – Identify top content-producing countries
-
-. Indian Market Insights – Analyze content trends in India
-
-. Viewer Preferences – Uncover top genres, ratings & actor appearances
-
-. Content Categorization – Identify violent vs. non-violent content
-
-##  Dataset
-
-. Source: Kaggle
-
-. Size: Contains data on thousands of Netflix movies and TV shows, including titles, directors, cast, genres, country, release year, ratings, and descriptions.
-
-
-## Schemas
+1. Create the table:
 
 ```sql
-
 CREATE TABLE netflixdb
 (
     show_id      VARCHAR(5),
@@ -74,7 +54,9 @@ CREATE TABLE netflixdb
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
 );
-```
+2.Import netflix_titles.csv into netflixdb.
+
+3.Run the SQL queries below.
 
 ## Business Problems and Solutions
 
