@@ -57,7 +57,7 @@ CREATE TABLE netflixdb
 2.Import netflix_titles.csv into netflixdb.
 
 3.Run the SQL queries below.
-
+```
 ## Business Problems and Solutions
 
 ### 1. Compare the quantity of films to television series.
