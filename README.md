@@ -32,6 +32,36 @@ Fields include:
 - Window functions and aggregations
 - Business insight extraction
 
+## Key Insights
+
+- Netflix hosts significantly more Movies than TV Shows, though Shows are growing due to original productions.
+
+- TV-MA, TV-14, and PG-13 dominate the rating distribution.
+
+- The United States, India, and the United Kingdom produce the highest volume of content.
+
+- Drama, International Movies, and Documentaries are among the most common genres.
+
+- Actor and director participation is highly concentrated among specific individuals.
+
+- Content with violent themes forms a measurable portion of the catalog.
+
+## Summary
+
+This SQL project demonstrates proficiency in:
+
+- Data cleaning and preprocessing
+
+- Complex SQL querying
+
+- Window functions
+
+-Text parsing and unnesting
+
+- Business-oriented data interpretation
+
+
+
 ---
 
 ## How to Run This Project
